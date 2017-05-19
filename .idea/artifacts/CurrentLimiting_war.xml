@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CurrentLimiting:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/CurrentLimiting_war</output-path>
+    <root id="archive" name="CurrentLimiting_war.war">
+      <element id="artifact" artifact-name="CurrentLimiting:war exploded" />
+    </root>
+  </artifact>
+</component>
